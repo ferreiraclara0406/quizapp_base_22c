@@ -153,7 +153,7 @@ main{
     box-shadow: var(--shadow);
     color: var(--primary-text-color);
     cursor: pointer;
-}
+}git
 
 .alternativas label:hover{
     & span {
