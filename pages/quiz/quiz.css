@@ -149,7 +149,7 @@ main{
 }
 
 .alternativas label:has(input:checked) {
-    
+    outline: 3px solid var(--purple);
 }
 
 .alternativas input{
@@ -159,7 +159,6 @@ main{
     display: flex;
     align-items: center;
     gap: 16px;
-    flex-shrink: 0;
 }
 
 
